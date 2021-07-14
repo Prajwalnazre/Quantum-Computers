@@ -2,6 +2,8 @@
 I have done a research project on 'Implementing Machine Learning on a Quantum Environment'.
 This repo contains the Jupyter Notebook of the project as well as the paper that I have applied to publish at ICORT-2021.
 
+Result :-
+
 The QNN (Quantum Neural Network) is being built and compared its performace to that of a CNN (Convoluted Neural Networks)
 The QNN produced a result of 69 percent while the CNN produced a whopping 99.9 percent. The QNN was built on the grounds of quantum circuits and considering each image as an indvidual circuit. The computations it undergoes are complex. The loss factors needs to be optimized even further to get better results.
 
